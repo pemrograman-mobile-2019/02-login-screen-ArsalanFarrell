@@ -1,4 +1,4 @@
-package com.example.putraprima.myapplication;
+package com.example.akohfarrell.myapplication;
 
 import org.junit.Test;
 

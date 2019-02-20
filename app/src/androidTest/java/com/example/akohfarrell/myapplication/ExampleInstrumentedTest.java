@@ -1,4 +1,4 @@
-package com.example.putraprima.myapplication;
+package com.example.akohfarrell.myapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

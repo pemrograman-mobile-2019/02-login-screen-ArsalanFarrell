@@ -1,4 +1,4 @@
-package com.example.putraprima.myapplication;
+package com.example.akohfarrell.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
