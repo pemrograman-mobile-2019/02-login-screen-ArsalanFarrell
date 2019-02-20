@@ -4,4 +4,27 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity" />
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="300dp"
+        android:src="@drawable/kanan"/>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="75dp"
+        android:layout_marginLeft="200dp"
+        android:src="@drawable/kiri"/>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:src="@drawable/logo2"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="30dp"/>
+
+</RelativeLayout>
+
